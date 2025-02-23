@@ -11,5 +11,4 @@ Built with Python, this project leverages the Breast Cancer dataset integrated w
 #### Result visualization (confusion matrix, ROC curve, etc.)
 ## Dataset
 #### 
-This project uses the Breast Cancer dataset available directly in Scikit-learn. It contains 569 samples with 30 numeric features describing tumor characteristics. No separate download is needed as it's accessible via Scikit-learn
-#### (https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer)
+This project uses the Breast Cancer dataset available directly in Scikit-learn. It contains 569 samples with 30 numeric features describing tumor characteristics. No separate download is needed as it's accessible via Scikit-learn (https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer)
