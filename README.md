@@ -10,14 +10,16 @@ Built with Python, this project leverages the Breast Cancer dataset integrated w
 - Number of Samples : The dataset consists of 569 patient records.
 ## Features
 ####
-#### Data preprocessing (normalization and splitting)
-#### Logistic regression implementation using Scikit-learn
-#### Model evaluation with metrics like accuracy, precision, and recall
-#### Result visualization (confusion matrix)
+#### 
+- Data preprocessing (normalization and splitting)
+- Logistic regression implementation using Scikit-learn
+- Model evaluation with metrics like accuracy, precision, and recall
+- Result visualization (confusion matrix)
 ## Dataset
 #### 
 This project uses the Breast Cancer dataset available directly in Scikit-learn. It contains 569 samples with 30 numeric features describing tumor characteristics. No separate download is needed as it's accessible via Scikit-learn (https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer)
 ## Tools Used
-#### Google Colab
-#### Python 
-#### Jupyter
+#### 
+- Google Colab
+- Python 
+- Jupyter
